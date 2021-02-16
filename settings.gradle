@@ -1,0 +1,4 @@
+include ':Kotlinlib'
+include ':AndroidLibrary'
+include ':app'
+rootProject.name = "HomeWork_1"
